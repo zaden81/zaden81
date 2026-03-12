@@ -21,6 +21,24 @@
 
 ---
 
+## `experience`
+
+**DFCFlow** · AI Fullstack Developer
+
+- Architected and built frontend admin dashboard following best practices — component design, type-safe API integration, state management
+- Analyzed business logic and designed API contracts between frontend and AI backend services
+- Wrote and optimized prompts for a multi-agent chatbot system — covering intent routing, response formatting, and agent coordination
+- Tuned RAG pipeline to improve retrieval accuracy for domain-specific knowledge
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
 ## `whoami`
 
 <table>
@@ -96,24 +114,6 @@ class Zaden:
 ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-
----
-
-## `experience`
-
-**DFCFlow** · AI Fullstack Developer
-
-- Architected and built frontend admin dashboard following best practices — component design, type-safe API integration, state management
-- Analyzed business logic and designed API contracts between frontend and AI backend services
-- Wrote and optimized prompts for a multi-agent chatbot system — covering intent routing, response formatting, and agent coordination
-- Tuned RAG pipeline to improve retrieval accuracy for domain-specific knowledge
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
