@@ -52,10 +52,10 @@ class Zaden:
     role     = "AI Fullstack Developer"
     focus    = ["Computer Vision", "Deep Learning", "Web Applications"]
     stack    = {
-        "AI/ML"    : ["PyTorch", "TensorFlow/Keras", "YOLOv8", "OpenCV"],
+        "AI/ML"    : ["PyTorch", "TensorFlow/Keras", "YOLOv8", "OpenCV", "LangGraph", "RAG"],
         "Backend"  : ["Python", "Flask", "FastAPI", "SQLAlchemy"],
-        "Frontend" : ["HTML/CSS", "JavaScript"],
-        "Database" : ["PostgreSQL", "SQLite"],
+        "Frontend" : ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+        "Database" : ["PostgreSQL", "SQLite", "Qdrant", "Redis"],
         "DevOps"   : ["Docker", "Gunicorn", "Render"],
     }
     currently = "Turning AI models into real products 🚀"
@@ -83,14 +83,24 @@ class Zaden:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Backend / Web**
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend / Infra**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
 </div>
 
