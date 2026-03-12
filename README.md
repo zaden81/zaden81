@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███████╗ █████╗ ██████╗ ███████╗███╗   ██╗
-╚══███╔╝██╔══██╗██╔══██╗██╔════╝████╗  ██║
-  ███╔╝ ███████║██║  ██║█████╗  ██╔██╗ ██║
- ███╔╝  ██╔══██║██║  ██║██╔══╝  ██║╚██╗██║
-███████╗██║  ██║██████╔╝███████╗██║ ╚████║
-╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝
-```
+<img src="./logo1.png" height="120" />
 
 ### `> Nguyen Hoai Thuong` — AI Fullstack Developer
 
@@ -16,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hoaithuong81.id.vn-00D9FF?style=for-the-badge&logoColor=white)](https://hoaithuong81.id.vn/)
 [![Gmail](https://img.shields.io/badge/Gmail-thuonggg81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuonggg81@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-zaden81-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaden81)
+
+<img src="./logo0.png" height="50" />
 
 </div>
 
