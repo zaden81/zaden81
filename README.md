@@ -21,24 +21,6 @@
 
 ---
 
-## `experience`
-
-**DFCFlow** · AI Fullstack Developer
-
-- Architected and built frontend admin dashboard following best practices — component design, type-safe API integration, state management
-- Analyzed business logic and designed API contracts between frontend and AI backend services
-- Wrote and optimized prompts for a multi-agent chatbot system — covering intent routing, response formatting, and agent coordination
-- Tuned RAG pipeline to improve retrieval accuracy for domain-specific knowledge
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
 ## `whoami`
 
 <table>
@@ -50,13 +32,18 @@ class Zaden:
     name     = "Nguyen Hoai Thuong"
     alias    = "zaden"
     role     = "AI Fullstack Developer"
-    focus    = ["Computer Vision", "Deep Learning", "Web Applications"]
+    focus    = [
+        "Computer Vision",
+        "Deep Learning",
+        "Web Applications",
+    ]
     stack    = {
-        "AI/ML"    : ["PyTorch", "TensorFlow/Keras", "YOLOv8", "OpenCV", "LangGraph", "RAG"],
-        "Backend"  : ["Python", "Flask", "FastAPI", "SQLAlchemy"],
-        "Frontend" : ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-        "Database" : ["PostgreSQL", "SQLite", "Qdrant", "Redis"],
-        "DevOps"   : ["Docker", "Gunicorn", "Render"],
+        "AI/ML"   : ["PyTorch", "Keras", "YOLOv8",
+                     "LangGraph", "RAG"],
+        "Backend" : ["Python", "FastAPI", "Flask"],
+        "Frontend": ["Next.js", "React", "TypeScript"],
+        "Database": ["PostgreSQL", "Qdrant", "Redis"],
+        "DevOps"  : ["Docker", "Render"],
     }
     currently = "Turning AI models into real products 🚀"
 ```
@@ -82,7 +69,7 @@ class Zaden:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
@@ -103,6 +90,25 @@ class Zaden:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
+
+---
+
+## `experience`
+
+**DFCFlow** · AI Engineer
+
+- Built frontend admin dashboard for AI platform — component design, type-safe API integration, state management
+- Analyzed business logic and designed API contracts between frontend and AI backend
+- Wrote and optimized prompts for a multi-agent chatbot system — intent routing, response formatting, agent coordination
+- Improved and optimized AI backend system — performance tuning, refactoring, reliability
+- Tuned RAG pipeline to improve retrieval accuracy for domain-specific knowledge
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
