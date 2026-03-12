@@ -90,7 +90,7 @@ class Zaden:
 
 ## `experience`
 
-**DFCFlow** · AI Engineer · *Nov 2024 — Present*
+**DFCFlow** · AI Engineer · *Nov 2025 — Present*
 
 - Built frontend admin dashboard for AI platform — component design, type-safe API integration, state management
 - Analyzed business logic and designed API contracts between frontend and AI backend
