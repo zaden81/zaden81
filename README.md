@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo1.png" height="120" />
+<img src="./logo10.png" height="240" />
 
 ### `> Nguyen Hoai Thuong` — AI Fullstack Developer
 
@@ -90,7 +90,7 @@ class Zaden:
 
 ## `experience`
 
-**DFCFlow** · AI Engineer
+**DFCFlow** · AI Engineer · *Nov 2024 — Present*
 
 - Built frontend admin dashboard for AI platform — component design, type-safe API integration, state management
 - Analyzed business logic and designed API contracts between frontend and AI backend
