@@ -96,6 +96,7 @@ class Zaden:
 - Analyzed business logic and designed API contracts between frontend and AI backend
 - Wrote and optimized prompts for a multi-agent chatbot system — intent routing, response formatting, agent coordination
 - Improved and optimized AI backend system — performance tuning, refactoring, reliability
+- Participated in designing multi-agent system architecture
 - Tuned RAG pipeline to improve retrieval accuracy for domain-specific knowledge
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -104,6 +105,19 @@ class Zaden:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Savepet** · AI Developer (Internal Project) · *Apr 2025 — Aug 2025*
+
+- Built an AI system for dog and cat recognition using YOLOv11 (data collection, preprocessing, model training)
+- Classified pet fur colors using MobileNetV2 fine-tune, achieving 87% accuracy (company requirement ≥ 80%)
+- Deployed the solution on a web application using Flask
+- Contributed to writing scripts for short comics published on the fanpage
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=black)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
