@@ -1,9 +1,9 @@
-<div align="center">
-
-<table><tr>
-<td align="center"><img src="./logo10.png" height="220" /></td>
-<td align="center"><img src="./zaden81.gif" height="220" style="border-radius:12px;" /></td>
+<table width="100%"><tr>
+<td align="center" width="50%"><img src="./logo10.png" width="100%" /></td>
+<td align="center" width="50%"><img src="./zaden81.gif" width="100%" /></td>
 </tr></table>
+
+<div align="center">
 
 ### `> Nguyen Hoai Thuong` — AI Fullstack Developer
 
