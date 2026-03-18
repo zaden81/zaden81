@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./logo10.png" height="240" />
+<table><tr>
+<td align="center"><img src="./logo10.png" height="220" /></td>
+<td align="center"><img src="./zaden81.gif" height="220" style="border-radius:12px;" /></td>
+</tr></table>
 
 ### `> Nguyen Hoai Thuong` — AI Fullstack Developer
 
@@ -10,31 +13,20 @@
 [![Gmail](https://img.shields.io/badge/Gmail-thuonggg81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuonggg81@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-zaden81-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaden81)
 
-<img src="./logo0.png" height="50" />
-
 </div>
 
----
+<img src="./watermelon-banner.gif" width="100%" />
 
 ## `whoami`
-
-<table>
-<tr>
-<td valign="top" width="60%">
 
 ```python
 class Zaden:
     name     = "Nguyen Hoai Thuong"
     alias    = "zaden"
     role     = "AI Fullstack Developer"
-    focus    = [
-        "Computer Vision",
-        "Deep Learning",
-        "Web Applications",
-    ]
+    focus    = ["Computer Vision", "Deep Learning", "Web Applications"]
     stack    = {
-        "AI/ML"   : ["PyTorch", "Keras", "YOLOv8",
-                     "LangGraph", "RAG"],
+        "AI/ML"   : ["PyTorch", "Keras", "YOLOv8", "LangGraph", "RAG"],
         "Backend" : ["Python", "FastAPI", "Flask"],
         "Frontend": ["Next.js", "React", "TypeScript"],
         "Database": ["PostgreSQL", "Qdrant", "Redis"],
@@ -42,15 +34,6 @@ class Zaden:
     }
     currently = "Turning AI models into real products 🚀"
 ```
-
-</td>
-<td valign="top" align="center" width="40%">
-
-<img src="./zaden81.gif" width="250" />
-
-</td>
-</tr>
-</table>
 
 ---
 
