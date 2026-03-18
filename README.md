@@ -1,6 +1,6 @@
-<table width="100%"><tr>
-<td align="center" width="50%"><img src="./logo10.png" width="100%" /></td>
-<td align="center" width="50%"><img src="./zaden81.gif" width="100%" /></td>
+<table align="center" width="80%"><tr>
+<td width="50%"><img src="./logo10.png" width="100%" /></td>
+<td width="50%"><img src="./zaden81.png" width="100%" /></td>
 </tr></table>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="./watermelon-banner.gif" width="100%" />
+<img src="./watermelon-banner.png" width="100%" />
 
 ## `whoami`
 
