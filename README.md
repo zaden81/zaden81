@@ -1,6 +1,6 @@
 <table align="center" width="80%"><tr>
-<td width="50%"><img src="./logo10.png" width="100%" /></td>
-<td width="50%"><img src="./zaden81.png" width="100%" /></td>
+<td width="40%"><img src="./logo10.png" width="100%" /></td>
+<td width="40%"><img src="./zaden81.png" width="100%" /></td>
 </tr></table>
 
 <div align="center">
