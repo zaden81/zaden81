@@ -1,8 +1,3 @@
-<table align="center" width="80%"><tr>
-<td width="40%"><img src="./logo10.png" width="100%" /></td>
-<td width="40%"><img src="./zaden81.png" width="100%" /></td>
-</tr></table>
-
 <div align="center">
 
 ### `> Nguyen Hoai Thuong` — AI Fullstack Developer
@@ -101,17 +96,6 @@ class Zaden:
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
----
-
-## `github stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zaden81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaden81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160"/>
-
-</div>
 
 ---
 
