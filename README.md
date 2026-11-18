@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=zaden81&style=flat-square&color=30363D&label=views" alt="Profile views" />
 </p>
 
-<img src="assets/highlights.svg" width="100%" alt="30+ agents and 300+ tools behind one router · 18 business modules · 11 repos · a 7,900 s chat hang traced to its cause" />
+<img src="assets/highlights.svg" width="100%" alt="30+ agents behind one router · 300+ tools · 18 business modules · 3 LLM providers" />
 
 <img src="./watermelon-banner.png" width="100%" alt="" />
 
