@@ -15,16 +15,16 @@
   <rect width="1200" height="132" fill="#0D1117"/>
 
     <g class="in" style="animation-delay:0.10s">
-      <text x="40" y="64" font-size="30" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">1,600+</text>
-      <text x="40" y="96" font-size="16" fill="#8B949E">Merged PRs since Feb 2026</text>
+      <text x="40" y="64" font-size="30" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">30+ agents</text>
+      <text x="40" y="96" font-size="16" fill="#8B949E">300+ tools behind one router</text>
     </g><line x1="300" y1="30" x2="300" y2="102" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.17s">
-      <text x="340" y="64" font-size="30" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">11 repos</text>
-      <text x="340" y="96" font-size="16" fill="#8B949E">AI, web, gateway, MCP</text>
+      <text x="340" y="64" font-size="30" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">18 modules</text>
+      <text x="340" y="96" font-size="16" fill="#8B949E">Orders, CRM, finance, inbox</text>
     </g><line x1="600" y1="30" x2="600" y2="102" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.24s">
-      <text x="640" y="64" font-size="30" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">30+ agents</text>
-      <text x="640" y="96" font-size="16" fill="#8B949E">300+ tools behind one router</text>
+      <text x="640" y="64" font-size="30" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">11 repos</text>
+      <text x="640" y="96" font-size="16" fill="#8B949E">AI, web, gateway, MCP</text>
     </g><line x1="900" y1="30" x2="900" y2="102" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.31s">
       <text x="940" y="64" font-size="30" font-weight="600" letter-spacing="-.6" fill="#E6EDF3">0% → 80%</text>

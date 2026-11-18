@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=zaden81&style=flat-square&color=30363D&label=views" alt="Profile views" />
 </p>
 
-<img src="assets/highlights.svg" width="100%" alt="1,600+ merged PRs since Feb 2026 · 11 repos · 30+ agents and 300+ tools behind one router · prompt tokens read from cache 0% → 80%" />
+<img src="assets/highlights.svg" width="100%" alt="30+ agents and 300+ tools behind one router · 18 business modules · 11 repos · prompt tokens read from cache 0% → 80%" />
 
 <img src="./watermelon-banner.png" width="100%" alt="" />
 
