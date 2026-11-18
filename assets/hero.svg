@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
 <defs>
-  <clipPath id="clip"><rect width="1200" height="380" rx="12"/></clipPath>
+  <clipPath id="clip"><rect width="1200" height="420" rx="12"/></clipPath>
   <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21262D"/></pattern>
   <linearGradient id="dg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".9"/></linearGradient>
-  <mask id="dm"><rect x="600" width="600" height="380" fill="url(#dg)"/></mask>
+  <mask id="dm"><rect x="600" width="600" height="420" fill="url(#dg)"/></mask>
 </defs>
 <style>
   .in{animation:in .7s ease-out both}
@@ -13,52 +13,53 @@
   .soft{animation:soft 2.4s ease-in-out infinite}
   @keyframes soft{50%{opacity:.35}}</style>
 <g clip-path="url(#clip)">
-  <rect width="1200" height="380" fill="#0D1117"/>
+  <rect width="1200" height="420" fill="#0D1117"/>
 
-  <rect x="600" width="600" height="380" fill="url(#dots)" mask="url(#dm)"/>
+  <rect x="600" width="600" height="420" fill="url(#dots)" mask="url(#dm)"/>
   <rect x="48" y="0" width="120" height="2" fill="#58A6FF"/>
 
   <g class="in" style="animation-delay:0.05s">
-    <circle cx="56" cy="78" r="4" fill="#3FB950" class="soft"/>
-    <text x="70" y="83" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="1.2" fill="#8B949E">PERSONAL ACCOUNT · SIDE PROJECTS &amp; EXPERIMENTS</text>
+    <circle cx="56" cy="77" r="4.5" fill="#3FB950" class="soft"/>
+    <text x="72" y="82" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#8B949E">PERSONAL ACCOUNT · SIDE PROJECTS &amp; EXPERIMENTS</text>
   </g>
-  <text class="in" style="animation-delay:0.15s" x="46" y="158" font-size="54" font-weight="700" letter-spacing="-1.6" fill="#E6EDF3">Nguyen Hoai Thuong</text>
-  <text class="in" style="animation-delay:0.25s" x="48" y="194" font-size="16" fill="#6E7681">Nguyễn Hoài Thương  ·  <tspan font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" fill="#8B949E">@zaden81</tspan></text>
-  <text class="in" style="animation-delay:0.35s" x="48" y="244" font-size="22" font-weight="600" fill="#C9D1D9">AI Team Lead <tspan fill="#484F58">/</tspan> AI Fullstack Developer</text>
-  <text class="in" style="animation-delay:0.45s" x="48" y="276" font-size="16" fill="#8B949E">I turn AI models into real products — LLM agents, chatbots, MCP tools.</text>
+  <text class="in" style="animation-delay:0.15s" x="46" y="160" font-size="58" font-weight="700" letter-spacing="-1.7" fill="#E6EDF3">Nguyen Hoai Thuong</text>
+  <text class="in" style="animation-delay:0.25s" x="48" y="200" font-size="19" fill="#6E7681">Nguyễn Hoài Thương  ·  <tspan font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" fill="#8B949E">@zaden81</tspan></text>
+  <text class="in" style="animation-delay:0.35s" x="48" y="252" font-size="26" font-weight="600" fill="#C9D1D9">AI Team Lead <tspan fill="#484F58">/</tspan> AI Fullstack Developer</text>
+  <text class="in" style="animation-delay:0.45s" x="48" y="290" font-size="19" fill="#8B949E">I turn AI models into real products —</text>
+  <text class="in" style="animation-delay:0.45s" x="48" y="317" font-size="19" fill="#8B949E">LLM agents, chatbots and MCP tools.</text>
 
-  <g class="in" style="animation-delay:0.55s" font-size="13.5" fill="#8B949E">
-    <line x1="48" y1="312" x2="632" y2="312" stroke="#21262D"/>
-    <text x="48" y="342"><tspan fill="#6E7681">Company</tspan>  <tspan fill="#C9D1D9">DFC Flow</tspan></text>
-    <text x="232" y="342"><tspan fill="#6E7681">Based in</tspan>  <tspan fill="#C9D1D9">Vietnam · UTC+7</tspan></text>
-    <text x="448" y="342"><tspan fill="#6E7681">Web</tspan>  <tspan fill="#58A6FF">hoaithuong81.id.vn</tspan></text>
+  <g class="in" style="animation-delay:0.55s" font-size="16" fill="#8B949E">
+    <line x1="48" y1="348" x2="626" y2="348" stroke="#21262D"/>
+    <text x="48" y="382"><tspan fill="#6E7681">Company</tspan>  <tspan fill="#C9D1D9">DFC Flow</tspan></text>
+    <text x="218" y="382"><tspan fill="#6E7681">Based in</tspan>  <tspan fill="#C9D1D9">Vietnam · UTC+7</tspan></text>
+    <text x="436" y="382"><tspan fill="#6E7681">Web</tspan>  <tspan fill="#58A6FF">hoaithuong81.id.vn</tspan></text>
   </g>
 
   <g class="in" style="animation-delay:0.3s">
-    <rect x="690" y="46" width="450" height="288" rx="10" fill="#111722" stroke="#30363D"/>
-    <line x1="690" y1="84" x2="1140" y2="84" stroke="#21262D"/>
-    <circle cx="710" cy="65" r="5" fill="#30363D"/><circle cx="728" cy="65" r="5" fill="#30363D"/><circle cx="746" cy="65" r="5" fill="#30363D"/>
-    <text x="915" y="70" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#6E7681" text-anchor="middle">about.py</text>
-    <text x="1122" y="70" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#484F58" text-anchor="end">PY</text>
+    <rect x="660" y="46" width="490" height="328" rx="10" fill="#111722" stroke="#30363D"/>
+    <line x1="660" y1="86" x2="1150" y2="86" stroke="#21262D"/>
+    <circle cx="681" cy="66" r="5.5" fill="#30363D"/><circle cx="700" cy="66" r="5.5" fill="#30363D"/><circle cx="719" cy="66" r="5.5" fill="#30363D"/>
+    <text x="905" y="71" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14" fill="#6E7681" text-anchor="middle">about.py</text>
+    <text x="1130" y="71" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12.5" fill="#484F58" text-anchor="end">PY</text>
   </g>
   <g class="in" style="animation-delay:0.50s">
-      <text x="712" y="122" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">1</text>
-      <text x="742" y="122" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#E6EDF3">zaden</tspan><tspan fill="#8B949E">&#160;=&#160;{</tspan></text></g><g class="in" style="animation-delay:0.57s">
-      <text x="712" y="146" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">2</text>
-      <text x="742" y="146" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;"role"</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">"AI&#160;Team&#160;Lead"</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.64s">
-      <text x="712" y="170" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">3</text>
-      <text x="742" y="170" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;"company"</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">"DFC&#160;Flow"</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.71s">
-      <text x="712" y="194" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">4</text>
-      <text x="742" y="194" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;"builds"</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">"Agents"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"Chatbots"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"MCP"</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.78s">
-      <text x="712" y="218" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">5</text>
-      <text x="742" y="218" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;"stack"</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">"Python"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"TS"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"LangGraph"</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.85s">
-      <text x="712" y="242" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">6</text>
-      <text x="742" y="242" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;"ship"</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">"Docker"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"Fly.io"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"CI"</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.92s">
-      <text x="712" y="266" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">7</text>
-      <text x="742" y="266" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;"motto"</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">"zero&#160;→&#160;deployed"</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.99s">
-      <text x="712" y="290" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">8</text>
-      <text x="742" y="290" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#8B949E">}</tspan></text></g>
-  <rect class="blink" x="754.4" y="277" width="8" height="17" fill="#58A6FF" opacity=".85"/>
+      <text x="682" y="130" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">1</text>
+      <text x="712" y="130" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#E6EDF3">zaden</tspan><tspan fill="#8B949E">&#160;=&#160;{</tspan></text></g><g class="in" style="animation-delay:0.57s">
+      <text x="682" y="158" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">2</text>
+      <text x="712" y="158" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#79C0FF">&#160;&#160;"role"</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">"AI&#160;Team&#160;Lead"</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.64s">
+      <text x="682" y="186" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">3</text>
+      <text x="712" y="186" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#79C0FF">&#160;&#160;"company"</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">"DFC&#160;Flow"</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.71s">
+      <text x="682" y="214" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">4</text>
+      <text x="712" y="214" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#79C0FF">&#160;&#160;"builds"</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">"Agents"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"Chatbots"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"MCP"</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.78s">
+      <text x="682" y="242" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">5</text>
+      <text x="712" y="242" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#79C0FF">&#160;&#160;"stack"</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">"Python"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"TS"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"LangGraph"</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.85s">
+      <text x="682" y="270" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">6</text>
+      <text x="712" y="270" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#79C0FF">&#160;&#160;"ship"</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">"Docker"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"Fly.io"</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">"CI"</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.92s">
+      <text x="682" y="298" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">7</text>
+      <text x="712" y="298" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#79C0FF">&#160;&#160;"motto"</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">"zero&#160;→&#160;deployed"</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.99s">
+      <text x="682" y="326" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" dx="12">8</text>
+      <text x="712" y="326" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="16"><tspan fill="#8B949E">}</tspan></text></g>
+  <rect class="blink" x="725.6" y="311" width="9" height="19" fill="#58A6FF" opacity=".85"/>
 </g>
-<rect x=".5" y=".5" width="1199" height="379" rx="12" fill="none" stroke="#21262D"/>
+<rect x=".5" y=".5" width="1199" height="419" rx="12" fill="none" stroke="#21262D"/>
 </svg>

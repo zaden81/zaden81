@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
 <defs>
-  <clipPath id="clip"><rect width="1200" height="300" rx="12"/></clipPath>
+  <clipPath id="clip"><rect width="1200" height="366" rx="12"/></clipPath>
   <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21262D"/></pattern>
   
 </defs>
@@ -12,28 +12,28 @@
   .soft{animation:soft 2.4s ease-in-out infinite}
   @keyframes soft{50%{opacity:.35}}</style>
 <g clip-path="url(#clip)">
-  <rect width="1200" height="300" fill="#0D1117"/>
+  <rect width="1200" height="366" fill="#0D1117"/>
     <g class="in" style="animation-delay:0.10s">
-      <circle cx="42" cy="34" r="4" fill="#3FB950" class="soft"/>
-      <text x="58" y="38.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" letter-spacing=".6" fill="#58A6FF">MAR 2026 — PRESENT</text>
-      <text x="300" y="40" font-size="18" font-weight="600" fill="#E6EDF3">AI Team Lead  <tspan font-size="14" font-weight="400" fill="#6E7681">·  DFC Flow</tspan></text>
-      <text x="300" y="64" font-size="14" fill="#8B949E">Lead the AI team across AI backend, frontend, gateway and MCP — planning, code review, releases to production.</text>
-      <text x="300" y="84" font-size="14" fill="#8B949E">Own the AMOIQ agent system end to end, and trace production failures down to the root cause.</text>
-    </g><line x1="32" y1="100" x2="1168" y2="100" stroke="#21262D"/>
+      <circle cx="42" cy="38" r="4.5" fill="#3FB950" class="soft"/>
+      <text x="58" y="43" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" letter-spacing=".4" fill="#58A6FF">MAR 2026 — PRESENT</text>
+      <text x="262" y="45" font-size="22" font-weight="600" fill="#E6EDF3">AI Team Lead  <tspan font-size="17" font-weight="400" fill="#6E7681">·  DFC Flow</tspan></text>
+      <text x="262" y="76" font-size="16.5" fill="#8B949E">Lead the AI team across AI backend, frontend, gateway and MCP — planning, code review, releases to production.</text>
+      <text x="262" y="101" font-size="16.5" fill="#8B949E">Own the AMOIQ agent system end to end, and trace production failures down to the root cause.</text>
+    </g><line x1="32" y1="122" x2="1168" y2="122" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.17s">
-      <circle cx="42" cy="134" r="4" fill="#30363D"/>
-      <text x="58" y="138.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" letter-spacing=".6" fill="#8B949E">NOV 2025 — MAR 2026</text>
-      <text x="300" y="140" font-size="18" font-weight="600" fill="#E6EDF3">AI Engineer  <tspan font-size="14" font-weight="400" fill="#6E7681">·  DFC Flow</tspan></text>
-      <text x="300" y="164" font-size="14" fill="#8B949E">Co-designed the multi-agent chatbot — intent routing, response formatting, agent coordination.</text>
-      <text x="300" y="184" font-size="14" fill="#8B949E">Built the admin dashboard (Next.js, TypeScript) and tuned the RAG pipeline for domain knowledge.</text>
-    </g><line x1="32" y1="200" x2="1168" y2="200" stroke="#21262D"/>
+      <circle cx="42" cy="160" r="4.5" fill="#30363D"/>
+      <text x="58" y="165" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" letter-spacing=".4" fill="#8B949E">NOV 2025 — MAR 2026</text>
+      <text x="262" y="167" font-size="22" font-weight="600" fill="#E6EDF3">AI Engineer  <tspan font-size="17" font-weight="400" fill="#6E7681">·  DFC Flow</tspan></text>
+      <text x="262" y="198" font-size="16.5" fill="#8B949E">Co-designed the multi-agent chatbot — intent routing, response formatting, agent coordination.</text>
+      <text x="262" y="223" font-size="16.5" fill="#8B949E">Built the admin dashboard (Next.js, TypeScript) and tuned the RAG pipeline for domain knowledge.</text>
+    </g><line x1="32" y1="244" x2="1168" y2="244" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.24s">
-      <circle cx="42" cy="234" r="4" fill="#30363D"/>
-      <text x="58" y="238.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" letter-spacing=".6" fill="#8B949E">APR 2025 — AUG 2025</text>
-      <text x="300" y="240" font-size="18" font-weight="600" fill="#E6EDF3">AI Developer Intern  <tspan font-size="14" font-weight="400" fill="#6E7681">·  Savepet</tspan></text>
-      <text x="300" y="264" font-size="14" fill="#8B949E">Built dog and cat recognition with YOLOv11 — data collection, preprocessing, training.</text>
-      <text x="300" y="284" font-size="14" fill="#8B949E">Classified pet fur colors with a fine-tuned MobileNetV2 (87%, target ≥ 80%); deployed as a Flask web app.</text>
+      <circle cx="42" cy="282" r="4.5" fill="#30363D"/>
+      <text x="58" y="287" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" letter-spacing=".4" fill="#8B949E">APR 2025 — AUG 2025</text>
+      <text x="262" y="289" font-size="22" font-weight="600" fill="#E6EDF3">AI Developer Intern  <tspan font-size="17" font-weight="400" fill="#6E7681">·  Savepet</tspan></text>
+      <text x="262" y="320" font-size="16.5" fill="#8B949E">Built dog and cat recognition with YOLOv11 — data collection, preprocessing, training.</text>
+      <text x="262" y="345" font-size="16.5" fill="#8B949E">Classified pet fur colors with a fine-tuned MobileNetV2 (87%, target ≥ 80%); deployed as a Flask web app.</text>
     </g>
 </g>
-<rect x=".5" y=".5" width="1199" height="299" rx="12" fill="none" stroke="#21262D"/>
+<rect x=".5" y=".5" width="1199" height="365" rx="12" fill="none" stroke="#21262D"/>
 </svg>
