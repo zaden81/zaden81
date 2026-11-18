@@ -15,10 +15,10 @@
   <rect width="1200" height="88" fill="#0D1117"/>
 
   <g class="in">
-    <text x="32" y="39" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14.5" font-weight="600" fill="#58A6FF">03</text>
+    <text x="32" y="39" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14.5" font-weight="600" fill="#58A6FF">01</text>
     <text x="68" y="40" font-size="24" font-weight="600" fill="#E6EDF3" letter-spacing="-.2">What I Build</text>
-    <text x="68" y="68" font-size="16.5" fill="#8B949E">AI systems that work with real business data.</text>
-    <text x="1168" y="40" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" letter-spacing="1">03 / 05</text>
+    <text x="68" y="68" font-size="16.5" fill="#8B949E">AI systems that work on real business data — and what they changed.</text>
+    <text x="1168" y="40" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" fill="#484F58" text-anchor="end" letter-spacing="1">01 / 04</text>
   </g>
 </g>
 <rect x=".5" y=".5" width="1199" height="87" rx="10" fill="none" stroke="#21262D"/>

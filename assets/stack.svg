@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
 <defs>
-  <clipPath id="clip"><rect width="1200" height="490" rx="12"/></clipPath>
+  <clipPath id="clip"><rect width="1200" height="420" rx="12"/></clipPath>
   <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21262D"/></pattern>
   
 </defs>
@@ -12,64 +12,51 @@
   .soft{animation:soft 2.4s ease-in-out infinite}
   @keyframes soft{50%{opacity:.35}}</style>
 <g clip-path="url(#clip)">
-  <rect width="1200" height="490" fill="#0D1117"/>
+  <rect width="1200" height="420" fill="#0D1117"/>
     <g class="in" style="animation-delay:0.10s">
-      <text x="36" y="41" font-size="17" font-weight="600" fill="#8B949E">Languages</text>
+      <text x="36" y="41" font-size="17" font-weight="600" fill="#8B949E">LLM &amp; Agents</text>
       <rect x="250" y="17" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="295" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">Python</text><rect x="350" y="17" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="414" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">TypeScript</text><rect x="488" y="17" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="552" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">JavaScript</text><rect x="626" y="17" width="61" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="656.5" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">SQL</text>
+        <text x="295" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">Claude</text><rect x="350" y="17" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="395" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">OpenAI</text><rect x="450" y="17" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="495" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">Gemini</text><rect x="550" y="17" width="118" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="609" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">LangGraph</text><rect x="678" y="17" width="61" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="708.5" y="41" font-size="17" fill="#C9D1D9" text-anchor="middle">MCP</text>
     </g><line x1="32" y1="70" x2="1168" y2="70" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.17s">
-      <text x="36" y="111" font-size="17" font-weight="600" fill="#8B949E">LLM &amp; Agents</text>
-      <rect x="250" y="87" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="295" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">Claude</text><rect x="350" y="87" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="395" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">OpenAI</text><rect x="450" y="87" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="495" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">Gemini</text><rect x="550" y="87" width="118" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="609" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">LangGraph</text><rect x="678" y="87" width="118" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="737" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">LangChain</text><rect x="806" y="87" width="61" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="836.5" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">MCP</text><rect x="877" y="87" width="61" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="907.5" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">RAG</text>
+      <text x="36" y="111" font-size="17" font-weight="600" fill="#8B949E">Vision</text>
+      <rect x="250" y="87" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="299.5" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">PyTorch</text><rect x="359" y="87" width="70" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="394" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">YOLO</text><rect x="439" y="87" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="484" y="111" font-size="17" fill="#C9D1D9" text-anchor="middle">OpenCV</text>
     </g><line x1="32" y1="140" x2="1168" y2="140" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.24s">
-      <text x="36" y="181" font-size="17" font-weight="600" fill="#8B949E">AI / ML</text>
-      <rect x="250" y="157" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="299.5" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">PyTorch</text><rect x="359" y="157" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="423" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">TensorFlow</text><rect x="497" y="157" width="80" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="537" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">Keras</text><rect x="587" y="157" width="70" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="622" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">YOLO</text><rect x="667" y="157" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="712" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">OpenCV</text>
+      <text x="36" y="181" font-size="17" font-weight="600" fill="#8B949E">Backend</text>
+      <rect x="250" y="157" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="295" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">Python</text><rect x="350" y="157" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="399.5" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">FastAPI</text><rect x="459" y="157" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="508.5" y="181" font-size="17" fill="#C9D1D9" text-anchor="middle">Node.js</text>
     </g><line x1="32" y1="210" x2="1168" y2="210" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.31s">
       <text x="36" y="251" font-size="17" font-weight="600" fill="#8B949E">Frontend</text>
-      <rect x="250" y="227" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="299.5" y="251" font-size="17" fill="#C9D1D9" text-anchor="middle">Next.js</text><rect x="359" y="227" width="80" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="399" y="251" font-size="17" fill="#C9D1D9" text-anchor="middle">React</text><rect x="449" y="227" width="147" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="522.5" y="251" font-size="17" fill="#C9D1D9" text-anchor="middle">Tailwind CSS</text>
+      <rect x="250" y="227" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="314" y="251" font-size="17" fill="#C9D1D9" text-anchor="middle">TypeScript</text><rect x="388" y="227" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="437.5" y="251" font-size="17" fill="#C9D1D9" text-anchor="middle">Next.js</text><rect x="497" y="227" width="80" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="537" y="251" font-size="17" fill="#C9D1D9" text-anchor="middle">React</text>
     </g><line x1="32" y1="280" x2="1168" y2="280" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.38s">
-      <text x="36" y="321" font-size="17" font-weight="600" fill="#8B949E">Backend</text>
-      <rect x="250" y="297" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="299.5" y="321" font-size="17" fill="#C9D1D9" text-anchor="middle">FastAPI</text><rect x="359" y="297" width="80" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="399" y="321" font-size="17" fill="#C9D1D9" text-anchor="middle">Flask</text><rect x="449" y="297" width="99" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="498.5" y="321" font-size="17" fill="#C9D1D9" text-anchor="middle">Node.js</text>
+      <text x="36" y="321" font-size="17" font-weight="600" fill="#8B949E">Data</text>
+      <rect x="250" y="297" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="314" y="321" font-size="17" fill="#C9D1D9" text-anchor="middle">PostgreSQL</text><rect x="388" y="297" width="80" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="428" y="321" font-size="17" fill="#C9D1D9" text-anchor="middle">Redis</text>
     </g><line x1="32" y1="350" x2="1168" y2="350" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.45s">
-      <text x="36" y="391" font-size="17" font-weight="600" fill="#8B949E">Data</text>
-      <rect x="250" y="367" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="314" y="391" font-size="17" fill="#C9D1D9" text-anchor="middle">PostgreSQL</text><rect x="388" y="367" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="433" y="391" font-size="17" fill="#C9D1D9" text-anchor="middle">Qdrant</text><rect x="488" y="367" width="80" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="528" y="391" font-size="17" fill="#C9D1D9" text-anchor="middle">Redis</text>
-    </g><line x1="32" y1="420" x2="1168" y2="420" stroke="#21262D"/>
-    <g class="in" style="animation-delay:0.52s">
-      <text x="36" y="461" font-size="17" font-weight="600" fill="#8B949E">Ship &amp; Test</text>
-      <rect x="250" y="437" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="295" y="461" font-size="17" fill="#C9D1D9" text-anchor="middle">Docker</text><rect x="350" y="437" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="395" y="461" font-size="17" fill="#C9D1D9" text-anchor="middle">Fly.io</text><rect x="450" y="437" width="166" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="533" y="461" font-size="17" fill="#C9D1D9" text-anchor="middle">GitHub Actions</text><rect x="626" y="437" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
-        <text x="690" y="461" font-size="17" fill="#C9D1D9" text-anchor="middle">Playwright</text>
+      <text x="36" y="391" font-size="17" font-weight="600" fill="#8B949E">Ship &amp; Test</text>
+      <rect x="250" y="367" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="295" y="391" font-size="17" fill="#C9D1D9" text-anchor="middle">Docker</text><rect x="350" y="367" width="90" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="395" y="391" font-size="17" fill="#C9D1D9" text-anchor="middle">Fly.io</text><rect x="450" y="367" width="166" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="533" y="391" font-size="17" fill="#C9D1D9" text-anchor="middle">GitHub Actions</text><rect x="626" y="367" width="128" height="36" rx="7" fill="#111722" stroke="#30363D"/>
+        <text x="690" y="391" font-size="17" fill="#C9D1D9" text-anchor="middle">Playwright</text>
     </g>
 </g>
-<rect x=".5" y=".5" width="1199" height="489" rx="12" fill="none" stroke="#21262D"/>
+<rect x=".5" y=".5" width="1199" height="419" rx="12" fill="none" stroke="#21262D"/>
 </svg>

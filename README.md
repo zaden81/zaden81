@@ -7,33 +7,28 @@
   <img src="https://komarev.com/ghpvc/?username=zaden81&style=flat-square&color=30363D&label=views" alt="Profile views" />
 </p>
 
-<img src="assets/highlights.svg" width="100%" alt="30+ agents · 300+ tools · AI review across 8 repos · AI Team Lead at DFC Flow" />
+<img src="assets/highlights.svg" width="100%" alt="1,600+ merged PRs since Feb 2026 · 30+ agents and 300+ tools behind one router · prompt tokens read from cache 0% → 80% · 3 LLM providers" />
 
 <img src="./watermelon-banner.png" width="100%" alt="" />
 
 <br/><br/>
 
-<img src="assets/h-about.svg" width="100%" alt="01 — About" />
-<img src="assets/about.svg" width="100%" alt="LLM Agents · MCP Tooling · RAG & Chatbots · Computer Vision · Fullstack Web · Reliability & Quality" />
+<img src="assets/h-build.svg" width="100%" alt="01 — What I Build" />
+<img src="assets/build.svg" width="100%" alt="Multi-agent chatbot · MCP tool layer · Root-cause tracing · Prompt caching · Quality gates · Pet recognition" />
 
 <br/><br/>
 
-<img src="assets/h-stack.svg" width="100%" alt="02 — Tech Stack" />
-<img src="assets/stack.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, SQL · LLM & Agents: Claude, OpenAI, Gemini, LangGraph, LangChain, MCP, RAG · AI/ML: PyTorch, TensorFlow, Keras, YOLO, OpenCV · Frontend: Next.js, React, Tailwind CSS · Backend: FastAPI, Flask, Node.js · Data: PostgreSQL, Qdrant, Redis · Ship & Test: Docker, Fly.io, GitHub Actions, Playwright" />
-
-<br/><br/>
-
-<img src="assets/h-build.svg" width="100%" alt="03 — What I Build" />
-<img src="assets/build.svg" width="100%" alt="Multi-agent chatbot · MCP tool layer · RAG pipeline · Admin dashboard · Quality gates · Pet recognition" />
-
-<br/><br/>
-
-<img src="assets/h-exp.svg" width="100%" alt="04 — Experience" />
+<img src="assets/h-exp.svg" width="100%" alt="02 — Experience" />
 <img src="assets/experience.svg" width="100%" alt="AI Team Lead at DFC Flow (Mar 2026 — present) · AI Engineer at DFC Flow (Nov 2025 — Mar 2026) · AI Developer Intern at Savepet (Apr 2025 — Aug 2025)" />
 
 <br/><br/>
 
-<img src="assets/h-stats.svg" width="100%" alt="05 — Activity" />
+<img src="assets/h-stack.svg" width="100%" alt="03 — Tech Stack" />
+<img src="assets/stack.svg" width="100%" alt="LLM & Agents: Claude, OpenAI, Gemini, LangGraph, MCP · Vision: PyTorch, YOLO, OpenCV · Backend: Python, FastAPI, Node.js · Frontend: TypeScript, Next.js, React · Data: PostgreSQL, Redis · Ship & Test: Docker, Fly.io, GitHub Actions, Playwright" />
+
+<br/><br/>
+
+<img src="assets/h-stats.svg" width="100%" alt="04 — Activity" />
 
 <p align="center">
 <br/>

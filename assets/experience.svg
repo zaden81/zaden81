@@ -17,15 +17,15 @@
       <circle cx="42" cy="38" r="4.5" fill="#3FB950" class="soft"/>
       <text x="58" y="43" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" letter-spacing=".4" fill="#58A6FF">MAR 2026 — PRESENT</text>
       <text x="262" y="45" font-size="22" font-weight="600" fill="#E6EDF3">AI Team Lead  <tspan font-size="17" font-weight="400" fill="#6E7681">·  DFC Flow</tspan></text>
-      <text x="262" y="76" font-size="16.5" fill="#8B949E">Lead the AI team across AI backend, frontend, gateway and MCP — planning, code review, releases to production.</text>
-      <text x="262" y="101" font-size="16.5" fill="#8B949E">Own the AMOIQ agent system end to end, and trace production failures down to the root cause.</text>
+      <text x="262" y="76" font-size="16.5" fill="#8B949E">Lead a 3-person AI group across AI backend, frontend, gateway and MCP — planning, review, releases.</text>
+      <text x="262" y="101" font-size="16.5" fill="#8B949E">1,600+ merged PRs across 11 repos; trace production failures down to the root cause.</text>
     </g><line x1="32" y1="122" x2="1168" y2="122" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.17s">
       <circle cx="42" cy="160" r="4.5" fill="#30363D"/>
       <text x="58" y="165" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" letter-spacing=".4" fill="#8B949E">NOV 2025 — MAR 2026</text>
       <text x="262" y="167" font-size="22" font-weight="600" fill="#E6EDF3">AI Engineer  <tspan font-size="17" font-weight="400" fill="#6E7681">·  DFC Flow</tspan></text>
       <text x="262" y="198" font-size="16.5" fill="#8B949E">Co-designed the multi-agent chatbot — intent routing, response formatting, agent coordination.</text>
-      <text x="262" y="223" font-size="16.5" fill="#8B949E">Built the admin dashboard (Next.js, TypeScript) and tuned the RAG pipeline for domain knowledge.</text>
+      <text x="262" y="223" font-size="16.5" fill="#8B949E">Built the admin dashboard (Next.js, TypeScript) and the API contracts with the AI backend.</text>
     </g><line x1="32" y1="244" x2="1168" y2="244" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.24s">
       <circle cx="42" cy="282" r="4.5" fill="#30363D"/>
