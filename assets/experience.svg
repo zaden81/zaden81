@@ -17,7 +17,7 @@
       <circle cx="42" cy="38" r="4.5" fill="#3FB950" class="soft"/>
       <text x="58" y="43" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13.5" letter-spacing=".4" fill="#58A6FF">MAR 2026 — PRESENT</text>
       <text x="262" y="45" font-size="22" font-weight="600" fill="#E6EDF3">AI Team Lead  <tspan font-size="17" font-weight="400" fill="#6E7681">·  DFC Flow</tspan></text>
-      <text x="262" y="76" font-size="16.5" fill="#8B949E">Lead a 3-person AI group across AI backend, frontend, gateway and MCP — planning, review, releases.</text>
+      <text x="262" y="76" font-size="16.5" fill="#8B949E">Lead the AI team across AI backend, frontend, gateway and MCP — planning, review, releases.</text>
       <text x="262" y="101" font-size="16.5" fill="#8B949E">1,600+ merged PRs across 11 repos; trace production failures down to the root cause.</text>
     </g><line x1="32" y1="122" x2="1168" y2="122" stroke="#21262D"/>
     <g class="in" style="animation-delay:0.17s">

@@ -7,14 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=zaden81&style=flat-square&color=30363D&label=views" alt="Profile views" />
 </p>
 
-<img src="assets/highlights.svg" width="100%" alt="1,600+ merged PRs since Feb 2026 · 30+ agents and 300+ tools behind one router · prompt tokens read from cache 0% → 80% · 3 LLM providers" />
+<img src="assets/highlights.svg" width="100%" alt="1,600+ merged PRs since Feb 2026 · 11 repos · 30+ agents and 300+ tools behind one router · prompt tokens read from cache 0% → 80%" />
 
 <img src="./watermelon-banner.png" width="100%" alt="" />
 
 <br/><br/>
 
 <img src="assets/h-build.svg" width="100%" alt="01 — What I Build" />
-<img src="assets/build.svg" width="100%" alt="Multi-agent chatbot · MCP tool layer · Root-cause tracing · Prompt caching · Quality gates · Pet recognition" />
+<img src="assets/build.svg" width="100%" alt="Multi-agent chatbot · Root-cause tracing · Prompt caching" />
 
 <br/><br/>
 
