@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <clipPath id="clip"><rect width="1200" height="76" rx="10"/></clipPath>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21262D"/></pattern>
+  
+</defs>
+<style>
+  .in{animation:in .7s ease-out both}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .soft{animation:soft 2.4s ease-in-out infinite}
+  @keyframes soft{50%{opacity:.35}}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="76" fill="#0D1117"/>
+
+  <g class="in">
+    <text x="32" y="34" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#58A6FF">04</text>
+    <text x="64" y="35" font-size="20" font-weight="600" fill="#E6EDF3" letter-spacing="-.2">Experience</text>
+    <text x="64" y="58" font-size="13.5" fill="#8B949E">AMOIQ at DFC Flow — an AI platform over commerce, CRM and ERP data.</text>
+    <text x="1168" y="35" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" fill="#484F58" text-anchor="end" letter-spacing="1">04 / 05</text>
+  </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="75" rx="10" fill="none" stroke="#21262D"/>
+</svg>

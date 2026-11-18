@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="416" viewBox="0 0 1200 416" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <clipPath id="clip"><rect width="1200" height="416" rx="12"/></clipPath>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21262D"/></pattern>
+  
+</defs>
+<style>
+  .in{animation:in .7s ease-out both}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .soft{animation:soft 2.4s ease-in-out infinite}
+  @keyframes soft{50%{opacity:.35}}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="416" fill="#0D1117"/>
+<g class="in" style="animation-delay:0.10s">
+      <rect x="24" y="24" width="370.67" height="176" rx="10" fill="#111722" stroke="#30363D"/>
+      <rect x="50" y="50" width="60" height="24" rx="5" fill="#0D1117" stroke="#30363D"/>
+      <text x="80" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#58A6FF" text-anchor="middle">AGENT</text>
+      <text x="50" y="114" font-size="18" font-weight="600" fill="#E6EDF3">Multi-agent Chatbot</text>
+      <text x="50" y="144" font-size="14" fill="#8B949E">One router over 30+ specialist agents</text>
+      <text x="50" y="166" font-size="14" fill="#8B949E">and 300+ tools, with human approvals.</text>
+    </g><g class="in" style="animation-delay:0.17s">
+      <rect x="414.67" y="24" width="370.67" height="176" rx="10" fill="#111722" stroke="#30363D"/>
+      <rect x="440.67" y="50" width="44" height="24" rx="5" fill="#0D1117" stroke="#30363D"/>
+      <text x="462.67" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#58A6FF" text-anchor="middle">MCP</text>
+      <text x="440.67" y="114" font-size="18" font-weight="600" fill="#E6EDF3">MCP Tool Layer</text>
+      <text x="440.67" y="144" font-size="14" fill="#8B949E">15+ business modules — orders, CRM,</text>
+      <text x="440.67" y="166" font-size="14" fill="#8B949E">finance, inbox, marketing.</text>
+    </g><g class="in" style="animation-delay:0.24s">
+      <rect x="805.33" y="24" width="370.67" height="176" rx="10" fill="#111722" stroke="#30363D"/>
+      <rect x="831.33" y="50" width="44" height="24" rx="5" fill="#0D1117" stroke="#30363D"/>
+      <text x="853.33" y="66.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#58A6FF" text-anchor="middle">RAG</text>
+      <text x="831.33" y="114" font-size="18" font-weight="600" fill="#E6EDF3">RAG Pipeline</text>
+      <text x="831.33" y="144" font-size="14" fill="#8B949E">Retrieval tuned for domain-specific</text>
+      <text x="831.33" y="166" font-size="14" fill="#8B949E">knowledge.</text>
+    </g><g class="in" style="animation-delay:0.31s">
+      <rect x="24" y="220" width="370.67" height="176" rx="10" fill="#111722" stroke="#30363D"/>
+      <rect x="50" y="246" width="44" height="24" rx="5" fill="#0D1117" stroke="#30363D"/>
+      <text x="72" y="262.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#58A6FF" text-anchor="middle">WEB</text>
+      <text x="50" y="310" font-size="18" font-weight="600" fill="#E6EDF3">Admin Dashboard</text>
+      <text x="50" y="340" font-size="14" fill="#8B949E">Next.js + TypeScript dashboard and the</text>
+      <text x="50" y="362" font-size="14" fill="#8B949E">API contracts with the AI backend.</text>
+    </g><g class="in" style="animation-delay:0.38s">
+      <rect x="414.67" y="220" width="370.67" height="176" rx="10" fill="#111722" stroke="#30363D"/>
+      <rect x="440.67" y="246" width="36" height="24" rx="5" fill="#0D1117" stroke="#30363D"/>
+      <text x="458.67" y="262.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#58A6FF" text-anchor="middle">QA</text>
+      <text x="440.67" y="310" font-size="18" font-weight="600" fill="#E6EDF3">Quality Gates</text>
+      <text x="440.67" y="340" font-size="14" fill="#8B949E">Playwright end-to-end chat tests, a daily</text>
+      <text x="440.67" y="362" font-size="14" fill="#8B949E">stability run, AI review on every PR.</text>
+    </g><g class="in" style="animation-delay:0.45s">
+      <rect x="805.33" y="220" width="370.67" height="176" rx="10" fill="#111722" stroke="#30363D"/>
+      <rect x="831.33" y="246" width="36" height="24" rx="5" fill="#0D1117" stroke="#30363D"/>
+      <text x="849.33" y="262.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#58A6FF" text-anchor="middle">CV</text>
+      <text x="831.33" y="310" font-size="18" font-weight="600" fill="#E6EDF3">Pet Recognition</text>
+      <text x="831.33" y="340" font-size="14" fill="#8B949E">YOLOv11 detection and MobileNetV2</text>
+      <text x="831.33" y="362" font-size="14" fill="#8B949E">fur-color classification — 87% accuracy.</text>
+    </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="415" rx="12" fill="none" stroke="#21262D"/>
+</svg>
